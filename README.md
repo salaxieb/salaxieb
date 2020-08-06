@@ -1,25 +1,9 @@
 ### Hi there 👋
+### I'm SALAKHIEV Ildar aka salaxieb
 
-<!--
-**salaxieb/salaxieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on creating [best ever bank chat bot](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2020/)
-- 🌱 I’m currently learning [Deep Reinforcement Learning](https://www.udemy.com/course/deep-reinforcement-learning-in-python/)
+- 🔭 Currently working on creating [best ever bank chat bot](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2020/)
+- 🌱 and in parallel learning [Deep Reinforcement Learning](https://www.udemy.com/course/deep-reinforcement-learning-in-python/)
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="salaxieb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ildar-salakhiev-4156b211b/]
+[<img align="left" alt="salaxieb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/salaxieb/]
