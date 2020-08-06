@@ -27,4 +27,4 @@
 <!-- BLOG-POST-LIST:END -->
 <br />
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="salaxieb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salaxieb&show_icons=true&hide_border=true" />
