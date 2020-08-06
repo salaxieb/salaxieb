@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### I'm SALAKHIEV Ildar aka salaxieb
+### This github repository only for my personal projects
 <br />
 
 - 🔭 currently working on creating [best ever bank chat bot](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2020/)
