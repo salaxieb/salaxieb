@@ -24,9 +24,7 @@
 ---
 ### 📕 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [Обзор методов создания эмбедингов предложений, Часть2](https://habr.com/ru/post/515084/)
-- [Обзор методов создания эмбедингов предложений, Часть1](https://habr.com/ru/post/515036/)
-- [[Из песочницы] Улучшения для генеративно-состязательных сетей (GAN)](https://habr.com/ru/post/506032/)
+- [Tips and Tricks for GAN](https://medium.com/@salaxieb.ildar/tips-and-tricks-for-gan-6cc46edb94b4?source=rss-138fd151c3ba------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
 ### 📕 Latest Habr Posts
