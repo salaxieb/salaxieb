@@ -24,8 +24,11 @@
 ---
 ### 📕 Latest Medium Posts
 <!-- BLOG-POST-LIST:START -->
-- [Tips and Tricks for GAN](https://medium.com/@salaxieb.ildar/tips-and-tricks-for-gan-6cc46edb94b4?source=rss-138fd151c3ba------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
+
+### 📕 Latest Habr Posts
+<!-- HABR-POST-LIST:START -->
+<!-- HABR-POST-LIST:END -->
 
 <img align="left" alt="salaxieb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salaxieb&show_icons=true&hide_border=true" />
