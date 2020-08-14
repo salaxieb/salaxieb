@@ -14,7 +14,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://medium.com/feed/@salaxieb.ildar"
-
-
-
-https://habr.com/ru/users/salaxieb/rss/posts/?fl=ru
