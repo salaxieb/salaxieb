@@ -29,6 +29,9 @@
 
 ### 📕 Latest Habr Posts
 <!-- HABRHABR:START -->
+- [Обзор методов создания эмбедингов предложений, Часть2](https://habr.com/ru/post/515084/)
+- [Обзор методов создания эмбедингов предложений, Часть1](https://habr.com/ru/post/515036/)
+- [[Из песочницы] Улучшения для генеративно-состязательных сетей (GAN)](https://habr.com/ru/post/506032/)
 <!-- HABRHABR:END -->
 
 <img align="left" alt="salaxieb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=salaxieb&show_icons=true&hide_border=true" />
