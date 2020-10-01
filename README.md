@@ -5,6 +5,7 @@
 
 - 🔭 currently working on creating [best ever bank chat bot](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2020/)
 - 🌱 and in parallel learning [Deep Reinforcement Learning](https://www.udemy.com/course/deep-reinforcement-learning-in-python/)
+- :+1: working on python Perlin noise library [pipy.org/perlin-noise](https://pypi.org/project/perlin-noise/)
 ---
 ### Connect with me:
 [<img align="left" alt="salaxieb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ildar-salakhiev-4156b211b/)
