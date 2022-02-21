@@ -6,7 +6,7 @@
 - 🔭 currently working on creating chat and voice bot for [Sber.Domklick](domklick.ru)
 - 🔭 last project: best ever bank chat bot [rating begin 2020](https://brobank.ru/luchshie-onlajn-chaty-bankov-nachala-2020/) and [mid 2020](https://www.naumen.ru/events/news/4525/)
 - 🌱 fields of interest: **GANs** (working on text GAN), **NLP**, **NER** and **RE**, **DRE** (Deep Reinforcement Learning), **ML Ops**
-- :+1: open source contirbution: python [AutoML for NLP](https://pypi.org/project/NLP-AutoML/) library, [LAMA AutoML](https://github.com/sberbank-ai-lab/LightAutoML) library, python [Perlin noise](https://pypi.org/project/perlin-noise/) library, [Perlin noise](https://pypi.org/project/perlin-noise/) library
+- :+1: open source contirbution: python [AutoML for NLP](https://pypi.org/project/NLP-AutoML/) library, [LAMA AutoML](https://github.com/sberbank-ai-lab/LightAutoML) library, python [Perlin noise](https://pypi.org/project/perlin-noise/) library
 ---
 ### Connect with me:
 [<img align="left" alt="salaxieb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ildar-salakhiev-4156b211b/)
