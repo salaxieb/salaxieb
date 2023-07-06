@@ -12,7 +12,6 @@
 [<img align="left" alt="salaxieb | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ildar-salakhiev-4156b211b/)
 [<img align="left" alt="salaxieb | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/salaxieb/)
 [<img align="left" alt="salaxieb | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />](https://www.facebook.com/salaxieb.ildar/)
-[<img align="left" alt="salaxieb | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/vk.svg" />](https://vk.com/salaxieb)  
 <br />
 
 ---
@@ -20,6 +19,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Tips and Tricks for GAN](https://medium.com/@salaxieb.ildar/tips-and-tricks-for-gan-6cc46edb94b4?source=rss-138fd151c3ba------2)
 - [NER and RE in EMNLP 2021](https://medium.com/@salaxieb.ildar/ner-and-re-in-emnlp-2021-da109436a764)
+- [FixemGAN text GAN on fixed embeddings](https://medium.com/@salaxieb.ildar/text-gan-on-embeddings-debb9a006fff)
 <!-- BLOG-POST-LIST:END -->
 <br />
 
